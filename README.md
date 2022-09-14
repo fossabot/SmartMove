@@ -1,4 +1,6 @@
 # SmartMove
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchkp-ofirs%2FSmartMove.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchkp-ofirs%2FSmartMove?ref=badge_shield)
+
 Check Point SmartMove tool enables you to convert 3rd party database with firewall security policy and NAT to Check Point database.
 
 At the moment, the tool parses Cisco ASA, FirePower with ASA syntax, Juniper JunosOS/ScreenOS, Fortinet FortiOS, PaloAlto PAN-OS and PaloAlto Panorama configurations and converts the objects, NAT and firewall policy to a Check Point R80.10 compliant policy. The tool is planned to support additional vendors and security configurations in the future.
@@ -55,3 +57,7 @@ If you find a bug, please create an post and notify us at [CheckMATES](https://c
 If you find a security vulnerability, please report us as soon as possible: [Report a Potential Security Issue](https://www.checkpoint.com/security-issue/) 
 
 To create a pull request , please read [contributing](https://github.com/CheckPointSW/SmartMove/blob/master/.github/contributing.md) 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchkp-ofirs%2FSmartMove.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchkp-ofirs%2FSmartMove?ref=badge_large)
